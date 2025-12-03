@@ -1,8 +1,8 @@
-📊 Bellabeat Growth Strategy: Data-Driven Recommendations for User Engagement
+# 📊 Bellabeat Growth Strategy: Data-Driven Recommendations for User Engagement
 
 This project performs a case study analysis on daily activity data from the Bellabeat smart device to uncover key insights into how customers use the product. The goal is to provide data-driven recommendations that will inform Bellabeat's marketing strategy and drive growth by focusing on user engagement and habit creation.
 
-Visualization and Key Findings (Clickable Link Below):
+### Visualization and Key Findings (Clickable Link Below):
 
 The complete interactive dashboard presenting the findings is available on Tableau Public at this direct link:
 https://www.google.com/url?sa=E&source=gmail&q=https://public.tableau.com/views/BellaBeatCapstone_17644027540440/Dashboard1
@@ -27,7 +27,7 @@ Track B (Performance & Power): Reserve advanced HIIT challenges and high-intensi
 
 This capstone followed the standard data analysis process (Ask, Prepare, Process, Analyze, Share, Act).
 
-1. Data Source
+### 1. Data Source
 
 Dataset: FitBit Fitness Tracker Data (CC0 Public Domain).
 
@@ -35,7 +35,7 @@ Time Period: 04/12/2016 – 05/12/2016 (31 days).
 
 Scope: The analysis was limited to the dailyActivity_merged.csv file, focusing on daily steps, activity minutes, and consistency patterns.
 
-2. Processing and Cleaning (BigQuery and SQL)
+### 2. Processing and Cleaning (BigQuery and SQL)
 
 The raw data required cleaning to ensure validity and structure before analysis.
 
@@ -45,48 +45,24 @@ Action: Created a new table (master_daily_analysis_final) by joining the relevan
 
 Cleaning Criteria: Filtered out records where total_steps were less than 500 to exclude days where the device was likely not worn (ensuring data integrity).
 
-3. Analysis and Visualization (Tableau)
+### 3. Analysis and Visualization (Tableau)
 
 Four key questions were answered to drive the strategic recommendations:
 
-Question
-
-Visualization Type
-
-Key Finding
-
-User Segmentation?
-
-Bar Chart (Activity Segment)
-
-56% of users are "Lightly Active" or "Sedentary".
-
-When is Activity Lowest?
-
-Line Chart (Day of Week)
-
-Average total steps drop significantly every Friday.
-
-What Drives High Steps?
-
-Scatter Plot (Consistency vs. Steps)
-
-A strong positive correlation between "Overall Consistency Days" and "Average Daily Steps."
-
-Who are the Performance Users?
-
-Scatter Plot (Intensity Profile)
-
-Users who are "Very Active" also tend to have high "Lightly Active" minutes, suggesting dual-track content is needed.
-
+| Question | Visualization Type | Key Finding |
+| :--- | :--- | :--- |
+| **User Segmentation?** | Bar Chart (Activity Segment) | 56% of users are "Lightly Active" or "Sedentary". |
+| **When is Activity Lowest?** | Line Chart (Day of Week) | Average total steps drop significantly every Friday. |
+| **What Drives High Steps?** | Scatter Plot (Consistency vs. Steps) | A strong positive correlation between "Overall Consistency Days" and "Average Daily Steps." |
+| **Who are the Performance Users?** | Scatter Plot (Intensity Profile) | Users who are "Very Active" also tend to have high "Lightly Active" minutes, suggesting dual-track content is needed. |
 📂 Repository Contents
 
 This repository contains the necessary files to replicate the analysis:
 
-SQL Query: Bellabeat SQL Data Cleaning.sql
+SQL Query:https://www.google.com/search?q=Bellabeat%2520SQL%2520Data%2520Cleaning.sql
 
-Cleaned Data: Cleaned_data_Bellabeat.csv
+Cleaned Data: https://www.google.com/search?q=Cleaned_data_Bellabeat.csv
 
-Presentation PDF: Bellabeat Marketing Strategy. Insights from Activity Data.pdf
+Presentation PDF: https://www.google.com/search?q=Bellabeat%2520Marketing%2520Strategy.%2520Insights%2520from%2520Activity%2520Data.pdf
 
 Project Completed by Shilpa LR Analyst
