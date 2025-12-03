@@ -2,10 +2,10 @@
 
 This project performs a case study analysis on daily activity data from the Bellabeat smart device to uncover key insights into how customers use the product. The goal is to provide data-driven recommendations that will inform Bellabeat's marketing strategy and drive growth by focusing on user engagement and habit creation.
 
-Visualization and Key Findings:
+Visualization and Key Findings (Clickable Link Below):
 
-The complete interactive dashboard presenting the findings is available on Tableau Public:
-Tableau Public Dashboard Link
+The complete interactive dashboard presenting the findings is available on Tableau Public at this direct link:
+https://www.google.com/url?sa=E&source=gmail&q=https://public.tableau.com/views/BellaBeatCapstone_17644027540440/Dashboard1
 
 💡 Executive Summary
 
@@ -83,10 +83,10 @@ Users who are "Very Active" also tend to have high "Lightly Active" minutes, sug
 
 This repository contains the necessary files to replicate the analysis:
 
-Bellabeat_SQL_Data_Cleaning.sql: Contains the BigQuery SQL query used to clean and create the final analysis table.
+SQL Query: Bellabeat SQL Data Cleaning.sql
 
-Cleaned_data_Bellabeat.csv: The final cleaned dataset exported from BigQuery, used as the source for Tableau visualization.
+Cleaned Data: Cleaned_data_Bellabeat.csv
 
-Bellabeat_Marketing_Strategy_Insights_from_Activity_Data.pdf: A brief PDF summarizing the final presentation and recommendations (optional deliverable).
+Presentation PDF: Bellabeat Marketing Strategy. Insights from Activity Data.pdf
 
 Project Completed by Shilpa LR Analyst
