@@ -4,8 +4,8 @@ This project performs a case study analysis on daily activity data from the Bell
 
 ### Visualization and Key Findings (Clickable Link Below):
 
-The complete interactive dashboard presenting the findings is available on Tableau Public at this direct link:
-https://www.google.com/url?sa=E&source=gmail&q=https://public.tableau.com/views/BellaBeatCapstone_17644027540440/Dashboard1
+The complete interactive dashboard presenting the findings is available on Tableau Public at this direct link:[Tableau Dashboard](https://www.google.com/url?sa=E&source=gmail&q=https://public.tableau.com/views/BellaBeatCapstone_17644027540440/Dashboard1)
+
 
 ### 💡 Executive Summary
 
@@ -60,10 +60,10 @@ Four key questions were answered to drive the strategic recommendations:
 
 This repository contains the necessary files to replicate the analysis:
 
-SQL Query:https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Bellabeat%20SQL%20Data%20Cleaning.sql
+SQL Query:[SQL Script](https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Bellabeat%20SQL%20Data%20Cleaning.sql) 
 
-Cleaned Data: https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Cleaned_data_Bellabeat.csv
+Cleaned Data:[The cleaned csv file](https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Cleaned_data_Bellabeat.csv) 
 
-Presentation PDF:https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Bellabeat%20Marketing%20Strategy_%20Insights%20from%20Activity%20Data.pdf
+Presentation PDF:[Final Presentation](https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Bellabeat%20Marketing%20Strategy_%20Insights%20from%20Activity%20Data.pdf)
 
 Project Completed by Shilpa LR Analyst
