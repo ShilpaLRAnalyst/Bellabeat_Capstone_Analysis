@@ -55,14 +55,15 @@ Four key questions were answered to drive the strategic recommendations:
 | **When is Activity Lowest?** | Line Chart (Day of Week) | Average total steps drop significantly every Friday. |
 | **What Drives High Steps?** | Scatter Plot (Consistency vs. Steps) | A strong positive correlation between "Overall Consistency Days" and "Average Daily Steps." |
 | **Who are the Performance Users?** | Scatter Plot (Intensity Profile) | Users who are "Very Active" also tend to have high "Lightly Active" minutes, suggesting dual-track content is needed. |
+
 📂 Repository Contents
 
 This repository contains the necessary files to replicate the analysis:
 
-SQL Query:https://www.google.com/search?q=Bellabeat%2520SQL%2520Data%2520Cleaning.sql
+SQL Query:https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Bellabeat%20SQL%20Data%20Cleaning.sql
 
-Cleaned Data: https://www.google.com/search?q=Cleaned_data_Bellabeat.csv
+Cleaned Data: https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Cleaned_data_Bellabeat.csv
 
-Presentation PDF: https://www.google.com/search?q=Bellabeat%2520Marketing%2520Strategy.%2520Insights%2520from%2520Activity%2520Data.pdf
+Presentation PDF:https://github.com/ShilpaLRAnalyst/Bellabeat_Capstone_Analysis/blob/main/Bellabeat%20Marketing%20Strategy_%20Insights%20from%20Activity%20Data.pdf
 
 Project Completed by Shilpa LR Analyst
