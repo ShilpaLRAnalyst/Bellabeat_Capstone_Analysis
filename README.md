@@ -7,11 +7,11 @@ This project performs a case study analysis on daily activity data from the Bell
 The complete interactive dashboard presenting the findings is available on Tableau Public at this direct link:
 https://www.google.com/url?sa=E&source=gmail&q=https://public.tableau.com/views/BellaBeatCapstone_17644027540440/Dashboard1
 
-💡 Executive Summary
+### 💡 Executive Summary
 
 The analysis reveals that the majority of users (56%) fall into the "Lightly Active" and "Sedentary" tiers. Furthermore, a significant drop in activity is observed every Friday, suggesting a clear intervention point. The core recommendation is to shift the marketing focus from high-volume goals (e.g., 10,000 steps) to consistency and lower-friction habit creation tailored to these lower-activity segments.
 
-Key Recommendations:
+### Key Recommendations:
 
 Prioritize Consistency (7-Day Metric): De-emphasize high-volume goals and prioritize the "7-Day Streaks" or consistency days, as the data shows overall consistency is a better predictor of high daily steps than focusing purely on active minutes.
 
@@ -23,7 +23,7 @@ Track A (Gentle Wellness): Target the 56% low-activity majority with gentle yoga
 
 Track B (Performance & Power): Reserve advanced HIIT challenges and high-intensity workouts for the minority of "Very Active" users.
 
-🛠️ Methodology and Tools
+### 🛠️ Methodology and Tools
 
 This capstone followed the standard data analysis process (Ask, Prepare, Process, Analyze, Share, Act).
 
